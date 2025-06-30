@@ -1,0 +1,13 @@
+{
+    "first_name" : "CPL",
+    "last_name" : "Test",
+    "preferred_contact" : "Phone",
+    "email" : "qa@convertium.com",
+    "phone_number" : "+65 91234567",
+    "preferred_date" : "12/10/2025",
+    "preferred_time" : "6:00 pm",
+    "pax" : 1,
+    "preferred_models_1": "Bugatti Chiron",
+    "preferred_models_2": "Volvo XC90",
+    "test_drive" : "Rentic Singapore South"
+}
